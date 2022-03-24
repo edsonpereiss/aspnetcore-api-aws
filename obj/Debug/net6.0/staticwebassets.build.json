@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e/Ep2pjorA/2Pwp8Q1NvU6jS/dAKk/yD/gZtPig3x1o=",
+  "Source": "aspnetcore-api-aws",
+  "BasePath": "_content/aspnetcore-api-aws",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
